@@ -1,0 +1,1688 @@
+PMID- 32340350
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2218-1989 (Print)
+IS  - 2218-1989 (Electronic)
+IS  - 2218-1989 (Linking)
+VI  - 10
+IP  - 4
+DP  - 2020 Apr 23
+TI  - The Urinary Metabolome of Healthy Newborns.
+LID - 10.3390/metabo10040165 [doi]
+LID - 165
+AB  - The knowledge of normal metabolite values for neonates is key to establishing 
+      robust cut-off values to diagnose diseases, to predict the occurrence of new 
+      diseases, to monitor a neonate's metabolism, or to assess their general health 
+      status. For full term-newborns, many reference biochemical values are available 
+      for blood, serum, plasma and cerebrospinal fluid. However, there is a surprising 
+      lack of information about normal urine concentration values for a large number of 
+      important metabolites in neonates. In the present work, we used targeted tandem 
+      mass spectrometry (MS/MS)-based metabolomic assays to identify and quantify 136 
+      metabolites of biomedical interest in the urine from 48 healthy, full-term term 
+      neonates, collected in the first 24 h of life. In addition to this experimental 
+      study, we performed a literature review (covering the past eight years and over 
+      500 papers) to update the references values in the Human Metabolome 
+      Database/Urine Metabolome Database (HMDB/UMDB). Notably, 86 of the experimentally 
+      measured urinary metabolites are being reported in neonates/infants for the first 
+      time and another 20 metabolites are being reported in human urine for the first 
+      time ever. Sex differences were found for 15 metabolites. The literature review 
+      allowed us to identify another 78 urinary metabolites with concentration data. As 
+      a result, reference concentration values and ranges for 378 neonatal urinary 
+      metabolites are now publicly accessible via the HMDB.
+FAU - López-Hernández, Yamilé
+AU  - López-Hernández Y
+AUID- ORCID: 0000-0002-1068-603X
+AD  - CONACyT, Metabolomics and Proteomics Laboratory, Universidad Autónoma de 
+      Zacatecas, Zacatecas 98000, Mexico.
+FAU - Oropeza-Valdez, Juan José
+AU  - Oropeza-Valdez JJ
+AUID- ORCID: 0000-0003-1093-9970
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, Zacatecas 98000, Mexico.
+FAU - Blanco-Sandate, Jorge O
+AU  - Blanco-Sandate JO
+AD  - CIACYT-Facultad de Medicina, Universidad Autónoma de San Luis Potosí, San Luis 
+      Potosí 78210, Mexico.
+FAU - Herrera-Van Oostdam, Ana Sofia
+AU  - Herrera-Van Oostdam AS
+AD  - Biochemistry Department, Faculty of Medicine, Universidad Autónoma de San Luis 
+      Potosí, San Luis Potosí 78210, Mexico.
+FAU - Zheng, Jiamin
+AU  - Zheng J
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB T6G1C9, 
+      Canada.
+FAU - Chi Guo, An
+AU  - Chi Guo A
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB T6G1C9, 
+      Canada.
+FAU - Lima-Rogel, Victoria
+AU  - Lima-Rogel V
+AUID- ORCID: 0000-0003-3144-6577
+AD  - Hospital Central "Dr. Ignacio Morones Prieto", San Luis Potosí 78290, Mexico.
+FAU - Rajabzadeh, Rahmatollah
+AU  - Rajabzadeh R
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB T6G1C9, 
+      Canada.
+FAU - Salgado-Bustamante, Mariana
+AU  - Salgado-Bustamante M
+AD  - Biochemistry Department, Faculty of Medicine, Universidad Autónoma de San Luis 
+      Potosí, San Luis Potosí 78210, Mexico.
+FAU - Adrian-Lopez, Jesus
+AU  - Adrian-Lopez J
+AUID- ORCID: 0000-0001-8012-7041
+AD  - MicroRNAs Laboratory, Unidad Académica de Ciencias Biológicas, Universidad 
+      Autónoma de Zacatecas, Zacatecas 98000, Mexico.
+FAU - Castillo, C G
+AU  - Castillo CG
+AD  - CIACYT-Facultad de Medicina, Universidad Autónoma de San Luis Potosí, San Luis 
+      Potosí 78210, Mexico.
+FAU - Robles Arguelles, Emilia
+AU  - Robles Arguelles E
+AD  - MicroRNAs Laboratory, Unidad Académica de Ciencias Biológicas, Universidad 
+      Autónoma de Zacatecas, Zacatecas 98000, Mexico.
+FAU - Monárrez-Espino, Joel
+AU  - Monárrez-Espino J
+AUID- ORCID: 0000-0002-0695-5356
+AD  - Hospital Christus Muguerza del Parque, Chihuahua 31000, Mexico.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB T6G1C9, 
+      Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AUID- ORCID: 0000-0002-3207-2434
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB T6G1C9, 
+      Canada.
+LA  - eng
+GR  - 290239/Consejo Nacional de Ciencia y Tecnología/
+GR  - 35456/Genome Canada and the Canada Foundation for Innovation Major Science 
+      Initiative (CFI-MSI)/
+PT  - Journal Article
+DEP - 20200423
+PL  - Switzerland
+TA  - Metabolites
+JT  - Metabolites
+JID - 101578790
+PMC - PMC7240964
+OTO - NOTNLM
+OT  - inborn errors of metabolism
+OT  - metabolites
+OT  - newborn
+OT  - reference values
+OT  - tandem mass spectrometry
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript, or in the decision to publish the results.
+EDAT- 2020/04/29 06:00
+MHDA- 2020/04/29 06:01
+CRDT- 2020/04/29 06:00
+PHST- 2020/03/29 00:00 [received]
+PHST- 2020/04/18 00:00 [revised]
+PHST- 2020/04/21 00:00 [accepted]
+PHST- 2020/04/29 06:00 [entrez]
+PHST- 2020/04/29 06:00 [pubmed]
+PHST- 2020/04/29 06:01 [medline]
+AID - metabo10040165 [pii]
+AID - metabolites-10-00165 [pii]
+AID - 10.3390/metabo10040165 [doi]
+PST - epublish
+SO  - Metabolites. 2020 Apr 23;10(4):165. doi: 10.3390/metabo10040165.
+
+PMID- 29515623
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1664-8021 (Print)
+IS  - 1664-8021 (Electronic)
+IS  - 1664-8021 (Linking)
+VI  - 9
+DP  - 2018
+TI  - Growth of Malignant Non-CNS Tumors Alters Brain Metabolome.
+PG  - 41
+LID - 10.3389/fgene.2018.00041 [doi]
+LID - 41
+AB  - Cancer survivors experience numerous treatment side effects that negatively 
+      affect their quality of life. Cognitive side effects are especially insidious, as 
+      they affect memory, cognition, and learning. Neurocognitive deficits occur prior 
+      to cancer treatment, arising even before cancer diagnosis, and we refer to them 
+      as "tumor brain." Metabolomics is a new area of research that focuses on 
+      metabolome profiles and provides important mechanistic insights into various 
+      human diseases, including cancer, neurodegenerative diseases, and aging. Many 
+      neurological diseases and conditions affect metabolic processes in the brain. 
+      However, the tumor brain metabolome has never been analyzed. In our study we used 
+      direct flow injection/mass spectrometry (DI-MS) analysis to establish the effects 
+      of the growth of lung cancer, pancreatic cancer, and sarcoma on the brain 
+      metabolome of TumorGraft™ mice. We found that the growth of malignant non-CNS 
+      tumors impacted metabolic processes in the brain, affecting protein biosynthesis, 
+      and amino acid and sphingolipid metabolism. The observed metabolic changes were 
+      similar to those reported for neurodegenerative diseases and brain aging, and may 
+      have potential mechanistic value for future analysis of the tumor brain 
+      phenomenon.
+FAU - Kovalchuk, Anna
+AU  - Kovalchuk A
+AD  - Department of Neuroscience, University of Lethbridge, Lethbridge, AB, Canada.
+AD  - Leaders in Medicine Program, Cumming School of Medicine, University of Calgary, 
+      Calgary, AB, Canada.
+FAU - Nersisyan, Lilit
+AU  - Nersisyan L
+AD  - Group of Bioinformatics, Institute of Molecular Biology, National Academy of 
+      Sciences, Yerevan, Armenia.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - The Metabolomics Innovation Center, Department of Biological Sciences, University 
+      of Alberta, Edmonton, AB, Canada.
+FAU - Wishart, David
+AU  - Wishart D
+AD  - The Metabolomics Innovation Center, Department of Biological Sciences, University 
+      of Alberta, Edmonton, AB, Canada.
+FAU - Mancini, Maria
+AU  - Mancini M
+AD  - Department of Oncology, Champions Oncology, Baltimore, MD, United States.
+FAU - Sidransky, David
+AU  - Sidransky D
+AD  - Department of Oncology, Champions Oncology, Baltimore, MD, United States.
+AD  - Department of Otolaryngology and Oncology, Johns Hopkins University, Baltimore, 
+      MD, United States.
+FAU - Kolb, Bryan
+AU  - Kolb B
+AD  - Department of Neuroscience, University of Lethbridge, Lethbridge, AB, Canada.
+FAU - Kovalchuk, Olga
+AU  - Kovalchuk O
+AD  - Department of Biological Sciences, University of Lethbridge, Lethbridge, AB, 
+      Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20180220
+PL  - Switzerland
+TA  - Front Genet
+JT  - Frontiers in genetics
+JID - 101560621
+PMC - PMC5826252
+OTO - NOTNLM
+OT  - animal models
+OT  - brain aging
+OT  - metabolomics/metabolite profiling
+OT  - non-CNS tumors
+OT  - tumor brain
+EDAT- 2018/03/09 06:00
+MHDA- 2018/03/09 06:01
+CRDT- 2018/03/09 06:00
+PHST- 2017/11/26 00:00 [received]
+PHST- 2018/01/30 00:00 [accepted]
+PHST- 2018/03/09 06:00 [entrez]
+PHST- 2018/03/09 06:00 [pubmed]
+PHST- 2018/03/09 06:01 [medline]
+AID - 10.3389/fgene.2018.00041 [doi]
+PST - epublish
+SO  - Front Genet. 2018 Feb 20;9:41. doi: 10.3389/fgene.2018.00041. eCollection 2018.
+
+PMID- 35006358
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220726
+LR  - 20220921
+IS  - 1432-198X (Electronic)
+IS  - 0931-041X (Linking)
+VI  - 37
+IP  - 9
+DP  - 2022 Sep
+TI  - Urinary metabolomics to develop predictors for pediatric acute kidney injury.
+PG  - 2079-2090
+LID - 10.1007/s00467-021-05380-6 [doi]
+AB  - BACKGROUND: Acute kidney injury (AKI) is characterized by an abrupt decline in 
+      glomerular filtration rate (GFR). We sought to identify separate early urinary 
+      metabolomic signatures at AKI onset (with-AKI) and prior to onset of functional 
+      impairment (pre-AKI). METHODS: Pre-AKI (n=15), AKI (n=22), and respective 
+      controls (n=30) from two prospective PICU cohort studies provided urine samples 
+      which were analyzed by GC-MS and DI-MS mass spectrometry (193 metabolites). The 
+      cohort (n=58) was 8.7±6.4 years old and 66% male. AKI patients had longer PICU 
+      stays, higher PRISM scores, vasopressors requirement, and respiratory diagnosis 
+      and less commonly had trauma or post-operative diagnosis. Urine was collected 
+      within 2-3 days after admission and daily until day 5 or 14. RESULTS: The 
+      metabolite classifiers for pre-AKI samples (1.5±1.1 days prior to AKI onset) had 
+      a cross-validated area under receiver operator curve (AUC)=0.93 (95%CI 0.85-1.0); 
+      with-AKI samples had an AUC=0.94 (95%CI 0.87-1.0). A parsimonious pre-AKI 
+      classifier with 13 metabolites was similarly robust (AUC=0.96, 95%CI 0.89-1.0). 
+      Both classifiers were similar and showed modest correlation of high-ranking 
+      metabolites (tau=0.47, p<0.001). CONCLUSIONS: This exploratory study demonstrates 
+      the potential of a urine metabolite classifier to detect AKI-risk in pediatric 
+      populations earlier than the current standard of diagnosis with the need for 
+      external validation. A higher resolution version of the Graphical abstract is 
+      available as Supplementary information with inner reference to ESM for GA.
+CI  - © 2021. The Author(s), under exclusive licence to International Pediatric 
+      Nephrology Association.
+FAU - Franiek, Alexandra
+AU  - Franiek A
+AD  - College of Medicine and Veterinary Medicine, University of Edinburgh, Edinburgh, 
+      Scotland.
+FAU - Sharma, Atul
+AU  - Sharma A
+AD  - Department of Pediatrics and Child Health, Children's Hospital at Health Sciences 
+      Center, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Cockovski, Vedran
+AU  - Cockovski V
+AD  - SickKids Research Institute, University of Toronto, Toronto, ON, Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, Canada.
+FAU - Zappitelli, Michael
+AU  - Zappitelli M
+AD  - Department of Pediatrics, Division of Nephrology, Montreal Children's Hospital, 
+      McGill University Health Centre, Montreal, Québec, Canada.
+FAU - Blydt-Hansen, Tom D
+AU  - Blydt-Hansen TD
+AD  - Department of Pediatrics, University of British Columbia, BC Children's Hospital, 
+      Vancouver, BC, Canada. Tom.BlydtHansen@cw.bc.ca.
+LA  - eng
+GR  - P50 DK096418/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220110
+PL  - Germany
+TA  - Pediatr Nephrol
+JT  - Pediatric nephrology (Berlin, Germany)
+JID - 8708728
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - *Acute Kidney Injury/urine
+MH  - Adolescent
+MH  - Biomarkers/urine
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Glomerular Filtration Rate
+MH  - Humans
+MH  - Male
+MH  - Metabolomics
+MH  - Prospective Studies
+OTO - NOTNLM
+OT  - Acute kidney injury
+OT  - Biomarker
+OT  - Metabolomics
+OT  - Pediatric
+EDAT- 2022/01/11 06:00
+MHDA- 2022/07/27 06:00
+CRDT- 2022/01/10 12:28
+PHST- 2021/08/16 00:00 [received]
+PHST- 2021/11/18 00:00 [accepted]
+PHST- 2021/10/21 00:00 [revised]
+PHST- 2022/01/11 06:00 [pubmed]
+PHST- 2022/07/27 06:00 [medline]
+PHST- 2022/01/10 12:28 [entrez]
+AID - 10.1007/s00467-021-05380-6 [pii]
+AID - 10.1007/s00467-021-05380-6 [doi]
+PST - ppublish
+SO  - Pediatr Nephrol. 2022 Sep;37(9):2079-2090. doi: 10.1007/s00467-021-05380-6. Epub 
+      2022 Jan 10.
+
+PMID- 34282210
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210723
+LR  - 20231103
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Jul 19
+TI  - Targeted metabolomics identifies high performing diagnostic and prognostic 
+      biomarkers for COVID-19.
+PG  - 14732
+LID - 10.1038/s41598-021-94171-y [doi]
+LID - 14732
+AB  - Research exploring the development and outcome of COVID-19 infections has led to 
+      the need to find better diagnostic and prognostic biomarkers. This 
+      cross-sectional study used targeted metabolomics to identify potential COVID-19 
+      biomarkers that predicted the course of the illness by assessing 110 endogenous 
+      plasma metabolites from individuals admitted to a local hospital for 
+      diagnosis/treatment. Patients were classified into four groups (≈ 40 each) 
+      according to standard polymerase chain reaction (PCR) COVID-19 testing and 
+      disease course: PCR-/controls (i.e., non-COVID controls), PCR+/not-hospitalized, 
+      PCR+/hospitalized, and PCR+/intubated. Blood samples were collected within 2 days 
+      of admission/PCR testing. Metabolite concentration data, demographic data and 
+      clinical data were used to propose biomarkers and develop optimal regression 
+      models for the diagnosis and prognosis of COVID-19. The area under the receiver 
+      operating characteristic curve (AUC; 95% CI) was used to assess each models' 
+      predictive value. A panel that included the kynurenine: tryptophan ratio, lysoPC 
+      a C26:0, and pyruvic acid discriminated non-COVID controls from 
+      PCR+/not-hospitalized (AUC = 0.947; 95% CI 0.931-0.962). A second panel 
+      consisting of C10:2, butyric acid, and pyruvic acid distinguished 
+      PCR+/not-hospitalized from PCR+/hospitalized and PCR+/intubated (AUC = 0.975; 95% 
+      CI 0.968-0.983). Only lysoPC a C28:0 differentiated PCR+/hospitalized from 
+      PCR+/intubated patients (AUC = 0.770; 95% CI 0.736-0.803). If additional studies 
+      with targeted metabolomics confirm the diagnostic value of these plasma 
+      biomarkers, such panels could eventually be of clinical use in medical practice.
+CI  - © 2021. The Author(s).
+FAU - López-Hernández, Yamilé
+AU  - López-Hernández Y
+AD  - Cátedras-CONACyT, Consejo Nacional de Ciencia y Tecnologia, 03940, México, 
+      México. ylopezher@conacyt.mx.
+AD  - Autonomous University of Zacatecas, 98000, Zacatecas, Mexico. 
+      ylopezher@conacyt.mx.
+FAU - Monárrez-Espino, Joel
+AU  - Monárrez-Espino J
+AD  - Christus Muguerza Hospital Chihuahua-University of Monterrey, 31000, Chihuahua, 
+      Mexico. jmonarrez@hotmail.com.
+FAU - Oostdam, Ana-Sofía Herrera-van
+AU  - Oostdam AH
+AD  - Faculty of Medicine, Autonomous University of San Luis Potosí, 78210, San Luis 
+      Potosi, Mexico.
+FAU - Delgado, Julio Enrique Castañeda
+AU  - Delgado JEC
+AD  - Cátedras-CONACyT, Consejo Nacional de Ciencia y Tecnologia, 03940, México, 
+      México.
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, México.
+FAU - Zhang, Lun
+AU  - Zhang L
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+FAU - Zheng, Jiamin
+AU  - Zheng J
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+FAU - Valdez, Juan José Oropeza
+AU  - Valdez JJO
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, México.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+FAU - González, Fátima de Lourdes Ochoa
+AU  - González FLO
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, México.
+AD  - Doctorado en Ciencias Básicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      México.
+FAU - Moreno, Juan Carlos Borrego
+AU  - Moreno JCB
+AD  - Departmento de Epidemiología, Hospital General de Zona #1 "Emilio Varela Luján", 
+      Instituto Mexicano del Seguro Social, 98000, Zacatecas, México.
+FAU - Trejo-Medinilla, Flor M
+AU  - Trejo-Medinilla FM
+AD  - Autonomous University of Zacatecas, 98000, Zacatecas, Mexico.
+AD  - Doctorado en Ciencias Básicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      México.
+FAU - López, Jesús Adrián
+AU  - López JA
+AD  - MicroRNAs Laboratory, Academic Unit for Biological Sciences, Autonomous 
+      University of Zacatecas, 98000, Zacatecas, Mexico.
+FAU - Moreno, José Antonio Enciso
+AU  - Moreno JAE
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, México.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+LA  - eng
+GR  - 311880/Consejo Nacional de Ciencia y Tecnología/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210719
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Biomarkers)
+SB  - IM
+EIN - Sci Rep. 2022 Jan 25;12(1):1673. PMID: 35079137
+MH  - Adult
+MH  - Biomarkers/*blood
+MH  - COVID-19/*diagnosis
+MH  - COVID-19 Testing
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Hospitalization
+MH  - Humans
+MH  - Male
+MH  - *Metabolomics
+MH  - Middle Aged
+MH  - Models, Theoretical
+MH  - ROC Curve
+PMC - PMC8290000
+COIS- The authors declare no competing interests.
+EDAT- 2021/07/21 06:00
+MHDA- 2021/07/24 06:00
+CRDT- 2021/07/20 06:34
+PHST- 2021/02/24 00:00 [received]
+PHST- 2021/07/06 00:00 [accepted]
+PHST- 2021/07/20 06:34 [entrez]
+PHST- 2021/07/21 06:00 [pubmed]
+PHST- 2021/07/24 06:00 [medline]
+AID - 10.1038/s41598-021-94171-y [pii]
+AID - 94171 [pii]
+AID - 10.1038/s41598-021-94171-y [doi]
+PST - epublish
+SO  - Sci Rep. 2021 Jul 19;11(1):14732. doi: 10.1038/s41598-021-94171-y.
+
+PMID- 28121909
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170929
+LR  - 20180215
+IS  - 1534-6080 (Electronic)
+IS  - 0041-1337 (Linking)
+VI  - 101
+IP  - 10
+DP  - 2017 Oct
+TI  - Urinary Metabolomics for Noninvasive Detection of Antibody-Mediated Rejection in 
+      Children After Kidney Transplantation.
+PG  - 2553-2561
+LID - 10.1097/TP.0000000000001662 [doi]
+AB  - BACKGROUND: Biomarkers are needed that identify patients with antibody-mediated 
+      rejection (AMR). The goal of this study was to evaluate the utility of urinary 
+      metabolomics for early noninvasive detection of AMR in pediatric kidney 
+      transplant recipients. METHODS: Urine samples (n = 396) from a prospective, 
+      observational cohort of 59 renal transplant patients with surveillance or 
+      indication biopsies were assayed for 133 unique metabolites by quantitative mass 
+      spectrometry. Samples were classified according to Banff criteria for AMR and 
+      partial least squares discriminant analysis was used to identify associated 
+      changes in metabolite patterns by creating a composite index based on all 133 
+      metabolites. RESULTS: Urine samples of patients with (n = 40) and without AMR (n 
+      = 278) were analyzed and a classifier for AMR was identified (area under receiver 
+      operating characteristic curve = 0.84; 95% confidence interval, 0.77-0.91; P = 
+      0.006). Application of the classifier to "indeterminate" samples (samples that 
+      partially fulfilled Banff criteria for AMR; n = 65) yielded an AMR score of 0.19 
+      ± 0.15, intermediate between scores for AMR and No AMR (0.28 ± 0.14 and 0.10 ± 
+      0.13 respectively, P ≤ 0.001). The AMR score was associated with the presence of 
+      donor-specific antibodies, biopsy indication, Banff ct, t, ah and cg scores, and 
+      retained accuracy when applied to subclinical cases (creatinine, <25% increase 
+      from baseline) or had minimal or no transplant glomerulopathy (Banff cg0-1). 
+      Exploratory classifiers that segregated samples based on concurrent T 
+      cell-mediated rejection (TCMR) identified overlapping metabolite signatures 
+      between AMR and TCMR, suggesting similar pathophysiology of tissue injury. 
+      CONCLUSIONS: These preliminary findings identify a urine metabolic classifier for 
+      AMR. Independent validation is needed to verify its utility for accurate, 
+      noninvasive AMR detection.
+FAU - Blydt-Hansen, Tom D
+AU  - Blydt-Hansen TD
+AD  - 1 Department of Pediatrics, University of British Columbia, BC Children's 
+      Hospital Vancouver, BC, Canada. 2 Department of Pediatrics and Child Health, 
+      University of Manitoba, Children's Hospital at Health Sciences Center, Winnipeg, 
+      MB, Canada. 3 Department of Pathology, University of Manitoba, Health Sciences 
+      Center, Winnipeg, MB, Canada. 4 The Metabolomics Innovation Center, University of 
+      Alberta, Edmonton, AB, Canada. 5 Section of Nephrology, Department of Internal 
+      Medicine, University of Manitoba, Health Sciences Center, Winnipeg, MB, Canada. 6 
+      Department of Immunology, University of Manitoba, Winnipeg, Manitoba, Canada. 7 
+      Manitoba Center for Proteomics and Systems Biology, Faculty of Medicine, 
+      University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Sharma, Atul
+AU  - Sharma A
+FAU - Gibson, Ian W
+AU  - Gibson IW
+FAU - Wishart, David S
+AU  - Wishart DS
+FAU - Mandal, Rupasri
+AU  - Mandal R
+FAU - Ho, Julie
+AU  - Ho J
+FAU - Nickerson, Peter
+AU  - Nickerson P
+FAU - Rush, David
+AU  - Rush D
+LA  - eng
+GR  - CIHR/Canada
+PT  - Journal Article
+PT  - Observational Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Transplantation
+JT  - Transplantation
+JID - 0132144
+RN  - 0 (Antibodies)
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Antibodies/*urine
+MH  - Biomarkers/urine
+MH  - Biopsy
+MH  - Child
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Graft Rejection/diagnosis/immunology/*urine
+MH  - Humans
+MH  - Kidney Transplantation/*adverse effects
+MH  - Male
+MH  - Mass Spectrometry
+MH  - Metabolomics/*methods
+MH  - Prospective Studies
+MH  - Reproducibility of Results
+MH  - *Tissue Donors
+MH  - Transplantation, Homologous
+EDAT- 2017/01/26 06:00
+MHDA- 2017/09/30 06:00
+CRDT- 2017/01/26 06:00
+PHST- 2017/01/26 06:00 [pubmed]
+PHST- 2017/09/30 06:00 [medline]
+PHST- 2017/01/26 06:00 [entrez]
+AID - 10.1097/TP.0000000000001662 [doi]
+PST - ppublish
+SO  - Transplantation. 2017 Oct;101(10):2553-2561. doi: 10.1097/TP.0000000000001662.
+
+PMID- 34460840
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210909
+LR  - 20230920
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 16
+IP  - 8
+DP  - 2021
+TI  - Immunometabolic signatures predict risk of progression to sepsis in COVID-19.
+PG  - e0256784
+LID - 10.1371/journal.pone.0256784 [doi]
+LID - e0256784
+AB  - Viral sepsis has been proposed as an accurate term to describe all multisystemic 
+      dysregulations and clinical findings in severe and critically ill COVID-19 
+      patients. The adoption of this term may help the implementation of more accurate 
+      strategies of early diagnosis, prognosis, and in-hospital treatment. We 
+      accurately quantified 110 metabolites using targeted metabolomics, and 13 
+      cytokines/chemokines in plasma samples of 121 COVID-19 patients with different 
+      levels of severity, and 37 non-COVID-19 individuals. Analyses revealed an 
+      integrated host-dependent dysregulation of inflammatory cytokines, neutrophil 
+      activation chemokines, glycolysis, mitochondrial metabolism, amino acid 
+      metabolism, polyamine synthesis, and lipid metabolism typical of sepsis processes 
+      distinctive of a mild disease. Dysregulated metabolites and cytokines/chemokines 
+      showed differential correlation patterns in mild and critically ill patients, 
+      indicating a crosstalk between metabolism and hyperinflammation. Using 
+      multivariate analysis, powerful models for diagnosis and prognosis of COVID-19 
+      induced sepsis were generated, as well as for mortality prediction among septic 
+      patients. A metabolite panel made of kynurenine/tryptophan ratio, IL-6, LysoPC a 
+      C18:2, and phenylalanine discriminated non-COVID-19 from sepsis patients with an 
+      area under the curve (AUC (95%CI)) of 0.991 (0.986-0.995), with sensitivity of 
+      0.978 (0.963-0.992) and specificity of 0.920 (0.890-0.949). The panel that 
+      included C10:2, IL-6, NLR, and C5 discriminated mild patients from sepsis 
+      patients with an AUC (95%CI) of 0.965 (0.952-0.977), with sensitivity of 
+      0.993(0.984-1.000) and specificity of 0.851 (0.815-0.887). The panel with citric 
+      acid, LysoPC a C28:1, neutrophil-lymphocyte ratio (NLR) and kynurenine/tryptophan 
+      ratio discriminated severe patients from sepsis patients with an AUC (95%CI) of 
+      0.829 (0.800-0.858), with sensitivity of 0.738 (0.695-0.781) and specificity of 
+      0.781 (0.735-0.827). Septic patients who survived were different from those that 
+      did not survive with a model consisting of hippuric acid, along with the presence 
+      of Type II diabetes, with an AUC (95%CI) of 0.831 (0.788-0.874), with sensitivity 
+      of 0.765 (0.697-0.832) and specificity of 0.817 (0.770-0.865).
+FAU - Herrera-Van Oostdam, Ana Sofía
+AU  - Herrera-Van Oostdam AS
+AUID- ORCID: 0000-0002-5198-6100
+AD  - Doctorado en Ciencias Biomédicas Básicas, Centro de Investigación en Ciencias de 
+      la Salud y Biomedicina, Universidad Autónoma de San Luis Potosí, San Luis Potosí, 
+      San Luis Potosí, México.
+FAU - Castañeda-Delgado, Julio E
+AU  - Castañeda-Delgado JE
+AD  - Cátedras-CONACyT, Consejo Nacional de Ciencia y Tecnología, Ciudad de México, 
+      México.
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, Zacatecas, Zacatecas, México.
+FAU - Oropeza-Valdez, Juan José
+AU  - Oropeza-Valdez JJ
+AUID- ORCID: 0000-0003-1093-9970
+AD  - Doctorado en Ciencias Biomédicas Básicas, Centro de Investigación en Ciencias de 
+      la Salud y Biomedicina, Universidad Autónoma de San Luis Potosí, San Luis Potosí, 
+      San Luis Potosí, México.
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, Zacatecas, Zacatecas, México.
+FAU - Borrego, Juan Carlos
+AU  - Borrego JC
+AUID- ORCID: 0000-0001-5208-3264
+AD  - Departmento de Epidemiología, Hospital General de Zona #1 "Emilio Varela Luján", 
+      Instituto Mexicano del Seguro Social, Zacatecas, Zacatecas, México.
+FAU - Monárrez-Espino, Joel
+AU  - Monárrez-Espino J
+AD  - Christus Muguerza Hospital Chihuahua - University of Monterrey, Chihuahua, 
+      Chihuahua, Mexico.
+FAU - Zheng, Jiamin
+AU  - Zheng J
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, Alberta, 
+      Canada.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, Alberta, 
+      Canada.
+FAU - Zhang, Lun
+AU  - Zhang L
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, Alberta, 
+      Canada.
+FAU - Soto-Guzmán, Elizabeth
+AU  - Soto-Guzmán E
+AD  - Maestría en Ciencias Biomédicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      Zacatecas, México.
+FAU - Fernández-Ruiz, Julio César
+AU  - Fernández-Ruiz JC
+AUID- ORCID: 0000-0002-5490-6049
+AD  - Doctorado en Ciencias Biomédicas Básicas, Centro de Investigación en Ciencias de 
+      la Salud y Biomedicina, Universidad Autónoma de San Luis Potosí, San Luis Potosí, 
+      San Luis Potosí, México.
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, Zacatecas, Zacatecas, México.
+FAU - Ochoa-González, Fátima
+AU  - Ochoa-González F
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, Zacatecas, Zacatecas, México.
+AD  - Doctorado en Ciencias Básicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      Zacatecas, México.
+FAU - Trejo Medinilla, Flor M
+AU  - Trejo Medinilla FM
+AD  - Doctorado en Ciencias Básicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      Zacatecas, México.
+FAU - López, Jesús Adrián
+AU  - López JA
+AD  - MicroRNAs Laboratory, Academic Unit for Biological Sciences, Autonomous 
+      University of Zacatecas, Zacatecas, Zacatecas, Mexico.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, Alberta, 
+      Canada.
+FAU - Enciso-Moreno, José A
+AU  - Enciso-Moreno JA
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, Zacatecas, Zacatecas, México.
+FAU - López-Hernández, Yamilé
+AU  - López-Hernández Y
+AUID- ORCID: 0000-0002-1068-603X
+AD  - Cátedras-CONACyT, Consejo Nacional de Ciencia y Tecnología, Ciudad de México, 
+      México.
+AD  - Metabolomics and Proteomics Laboratory, Autonomous University of Zacatecas, 
+      Zacatecas, Zacatecas, Mexico.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210830
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Chemokines)
+RN  - 0 (Cytokines)
+RN  - 343-65-7 (Kynurenine)
+RN  - 8DUH1N11BX (Tryptophan)
+SB  - IM
+MH  - Adult
+MH  - Area Under Curve
+MH  - COVID-19/complications/*pathology/virology
+MH  - Chemokines/blood
+MH  - Cytokines/blood
+MH  - Female
+MH  - Humans
+MH  - Kynurenine/blood
+MH  - Lymphocytes/cytology
+MH  - Male
+MH  - *Metabolomics
+MH  - Middle Aged
+MH  - Neutrophils/cytology
+MH  - ROC Curve
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - SARS-CoV-2/isolation & purification
+MH  - Sepsis/*diagnosis/etiology
+MH  - Severity of Illness Index
+MH  - Tryptophan/blood
+PMC - PMC8405033
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2021/08/31 06:00
+MHDA- 2021/09/10 06:00
+CRDT- 2021/08/30 17:20
+PHST- 2021/05/19 00:00 [received]
+PHST- 2021/08/15 00:00 [accepted]
+PHST- 2021/08/30 17:20 [entrez]
+PHST- 2021/08/31 06:00 [pubmed]
+PHST- 2021/09/10 06:00 [medline]
+AID - PONE-D-21-16581 [pii]
+AID - 10.1371/journal.pone.0256784 [doi]
+PST - epublish
+SO  - PLoS One. 2021 Aug 30;16(8):e0256784. doi: 10.1371/journal.pone.0256784. 
+      eCollection 2021.
+
+PMID- 27867422
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220410
+IS  - 1758-2946 (Print)
+IS  - 1758-2946 (Electronic)
+IS  - 1758-2946 (Linking)
+VI  - 8
+DP  - 2016
+TI  - ClassyFire: automated chemical classification with a comprehensive, computable 
+      taxonomy.
+PG  - 61
+LID - 61
+AB  - BACKGROUND: Scientists have long been driven by the desire to describe, organize, 
+      classify, and compare objects using taxonomies and/or ontologies. In contrast to 
+      biology, geology, and many other scientific disciplines, the world of chemistry 
+      still lacks a standardized chemical ontology or taxonomy. Several attempts at 
+      chemical classification have been made; but they have mostly been limited to 
+      either manual, or semi-automated proof-of-principle applications. This is 
+      regrettable as comprehensive chemical classification and description tools could 
+      not only improve our understanding of chemistry but also improve the linkage 
+      between chemistry and many other fields. For instance, the chemical 
+      classification of a compound could help predict its metabolic fate in humans, its 
+      druggability or potential hazards associated with it, among others. However, the 
+      sheer number (tens of millions of compounds) and complexity of chemical 
+      structures is such that any manual classification effort would prove to be near 
+      impossible. RESULTS: We have developed a comprehensive, flexible, and computable, 
+      purely structure-based chemical taxonomy (ChemOnt), along with a computer program 
+      (ClassyFire) that uses only chemical structures and structural features to 
+      automatically assign all known chemical compounds to a taxonomy consisting of 
+      >4800 different categories. This new chemical taxonomy consists of up to 11 
+      different levels (Kingdom, SuperClass, Class, SubClass, etc.) with each of the 
+      categories defined by unambiguous, computable structural rules. Furthermore each 
+      category is named using a consensus-based nomenclature and described (in English) 
+      based on the characteristic common structural properties of the compounds it 
+      contains. The ClassyFire webserver is freely accessible at 
+      http://classyfire.wishartlab.com/. Moreover, a Ruby API version is available at 
+      https://bitbucket.org/wishartlab/classyfire_api, which provides programmatic 
+      access to the ClassyFire server and database. ClassyFire has been used to 
+      annotate over 77 million compounds and has already been integrated into other 
+      software packages to automatically generate textual descriptions for, and/or 
+      infer biological properties of over 100,000 compounds. Additional examples and 
+      applications are provided in this paper. CONCLUSION: ClassyFire, in combination 
+      with ChemOnt (ClassyFire's comprehensive chemical taxonomy), now allows chemists 
+      and cheminformaticians to perform large-scale, rapid and automated chemical 
+      classification. Moreover, a freely accessible API allows easy access to more than 
+      77 million "ClassyFire" classified compounds. The results can be used to help 
+      annotate well studied, as well as lesser-known compounds. In addition, these 
+      chemical classifications can be used as input for data integration, and many 
+      other cheminformatics-related tasks.
+FAU - Djoumbou Feunang, Yannick
+AU  - Djoumbou Feunang Y
+AD  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E8 
+      Canada.
+FAU - Eisner, Roman
+AU  - Eisner R
+AD  - Jobber - Field Service Software, 10520 Jasper Ave, Edmonton, AB T5J 1Z7 Canada.
+FAU - Knox, Craig
+AU  - Knox C
+AD  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8 
+      Canada.
+FAU - Chepelev, Leonid
+AU  - Chepelev L
+AD  - Department of Medical Imaging, The Ottawa Hospital, University of Ottawa, Civic 
+      Campus, 1053 Carling Ave, Ottawa, ON K1Y 4E9 Canada.
+FAU - Hastings, Janna
+AU  - Hastings J
+AD  - European Molecular Biology Laboratory - European Bioinformatics Institute 
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge UK.
+FAU - Owen, Gareth
+AU  - Owen G
+AD  - European Molecular Biology Laboratory - European Bioinformatics Institute 
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge UK.
+FAU - Fahy, Eoin
+AU  - Fahy E
+AD  - Department of Bioengineering, University of California, La Jolla, San Diego, CA 
+      92093 USA.
+FAU - Steinbeck, Christoph
+AU  - Steinbeck C
+AD  - European Molecular Biology Laboratory - European Bioinformatics Institute 
+      (EMBL-EBI), Wellcome Trust Genome Campus, Hinxton, Cambridge UK.
+FAU - Subramanian, Shankar
+AU  - Subramanian S
+AD  - Department of Bioengineering, University of California, La Jolla, San Diego, CA 
+      92093 USA.
+FAU - Bolton, Evan
+AU  - Bolton E
+AD  - Department of Health and Human Services, National Center for Biotechnology 
+      Information, National Library of Medicine, National Institutes of Health, 8600 
+      Rockville Pike, Bethesda, MD 20894 USA.
+FAU - Greiner, Russell
+AU  - Greiner R
+AD  - Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8 
+      Canada ; Department of Computing Science 2-21 Athabasca Hall, Alberta Innovates 
+      Centre for Machine Learning (AICML), University of Alberta, Edmonton, AB T6G 2E8 
+      Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 2E8 
+      Canada ; Department of Computing Science, University of Alberta, Edmonton, AB T6G 
+      2E8 Canada ; National Research Council, National Institute for Nanotechnology 
+      (NINT), Edmonton, AB T6G 2M9 Canada ; The Metabolomics Innovation Center, 
+      University of Alberta, Edmonton, AB T6G 2E9 Canada.
+LA  - eng
+PT  - Journal Article
+DEP - 20161104
+PL  - England
+TA  - J Cheminform
+JT  - Journal of cheminformatics
+JID - 101516718
+PMC - PMC5096306
+OTO - NOTNLM
+OT  - Annotation
+OT  - Data integration
+OT  - Database
+OT  - Inference
+OT  - Ontology
+OT  - Structure-based classification
+OT  - Taxonomy
+OT  - Text-based search
+EDAT- 2016/11/22 06:00
+MHDA- 2016/11/22 06:01
+CRDT- 2016/11/22 06:00
+PHST- 2016/06/30 00:00 [received]
+PHST- 2016/10/18 00:00 [accepted]
+PHST- 2016/11/22 06:00 [entrez]
+PHST- 2016/11/22 06:00 [pubmed]
+PHST- 2016/11/22 06:01 [medline]
+AID - 174 [pii]
+AID - 10.1186/s13321-016-0174-y [doi]
+PST - epublish
+SO  - J Cheminform. 2016 Nov 4;8:61. doi: 10.1186/s13321-016-0174-y. eCollection 2016.
+
+PMID- 29855144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181107
+LR  - 20191210
+IS  - 1399-3046 (Electronic)
+IS  - 1397-3142 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2018 Aug
+TI  - Non-invasive staging of chronic kidney allograft damage using urine metabolomic 
+      profiling.
+PG  - e13226
+LID - 10.1111/petr.13226 [doi]
+AB  - Chronic kidney allograft damage is characterized by IFTA and GS. We sought to 
+      identify urinary metabolite signatures associated with severity of IFTA and GS in 
+      pediatric kidney transplant recipients. Urine samples (n = 396) from 60 pediatric 
+      transplant recipients were obtained at the time of kidney biopsy and assayed for 
+      133 metabolites by mass spectrometry. Metabolite profiles were quantified via 
+      PLS-DA. We used mixed-effects regression to identify laboratory and clinical 
+      predictors of histopathology. Urine samples (n = 174) without rejection or AKI 
+      were divided into training/validation sets (75:25%). Metabolite classifiers 
+      trained on IFTA severity and %GS showed strong statistical correlation (r = .73, 
+      P < .001 and r = .72; P < .001, respectively) and remained significant on the 
+      validation sets. Regression analysis identified additional clinical features that 
+      improved prediction: months post-transplant (GS, IFTA); and proteinuria, GFR, and 
+      age (GS only). Addition of clinical variables improved performance of the %GS 
+      classifier (AUC = 0.9; 95% CI = 0.85-0.96) but not for IFTA (AUC = 0.82; 95% 
+      CI = 0.71-0.92). Despite the presence of potentially confounding phenotypes, 
+      these findings were further validated in samples withheld for rejection or AKI. 
+      We identify urine metabolite classifiers for IFTA and GS, which may prove useful 
+      for non-invasive assessment of histopathological damage.
+CI  - © 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+FAU - Landsberg, Adina
+AU  - Landsberg A
+AD  - Faculty of Health Sciences, McMaster University, Hamilton, ON, Canada.
+FAU - Sharma, Atul
+AU  - Sharma A
+AD  - Department of Pediatrics and Child Health, Children's Hospital at Health Sciences 
+      Center, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Gibson, Ian W
+AU  - Gibson IW
+AD  - Department of Pathology, Health Sciences Center, University of Manitoba, 
+      Winnipeg, MB, Canada.
+FAU - Rush, David
+AU  - Rush D
+AD  - Department of Medicine, Health Sciences Center, University of Manitoba, Winnipeg, 
+      MB, Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, Canada.
+FAU - Blydt-Hansen, Tom D
+AU  - Blydt-Hansen TD
+AUID- ORCID: 0000-0002-8864-0197
+AD  - Department of Pediatrics, University of British Columbia, BC Children's Hospital, 
+      Vancouver, BC, Canada.
+LA  - eng
+GR  - 274755/Canadian Institutes of Health Research/International
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180531
+PL  - Denmark
+TA  - Pediatr Transplant
+JT  - Pediatric transplantation
+JID - 9802574
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Allografts/metabolism/pathology
+MH  - Biomarkers/urine
+MH  - Child
+MH  - Child, Preschool
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Kidney/pathology
+MH  - *Kidney Transplantation
+MH  - Male
+MH  - *Metabolome
+MH  - Outcome Assessment, Health Care
+MH  - Postoperative Complications/*diagnosis/pathology/urine
+MH  - Regression Analysis
+MH  - Renal Insufficiency, Chronic/*diagnosis/etiology/pathology/urine
+MH  - *Severity of Illness Index
+OTO - NOTNLM
+OT  - biomarker
+OT  - chronic allograft nephropathy
+OT  - kidney function
+OT  - kidney transplant
+OT  - pediatric
+EDAT- 2018/06/02 06:00
+MHDA- 2018/11/08 06:00
+CRDT- 2018/06/02 06:00
+PHST- 2018/04/18 00:00 [accepted]
+PHST- 2018/06/02 06:00 [pubmed]
+PHST- 2018/11/08 06:00 [medline]
+PHST- 2018/06/02 06:00 [entrez]
+AID - 10.1111/petr.13226 [doi]
+PST - ppublish
+SO  - Pediatr Transplant. 2018 Aug;22(5):e13226. doi: 10.1111/petr.13226. Epub 2018 May 
+      31.
+
+PMID- 37890487
+OWN - NLM
+STAT- Publisher
+LR  - 20231027
+IS  - 2666-3791 (Electronic)
+IS  - 2666-3791 (Linking)
+DP  - 2023 Oct 18
+TI  - Sequential multi-omics analysis identifies clinical phenotypes and predictive 
+      biomarkers for long COVID.
+PG  - 101254
+LID - S2666-3791(23)00431-7 [pii]
+LID - 10.1016/j.xcrm.2023.101254 [doi]
+AB  - The post-acute sequelae of COVID-19 (PASC), also known as long COVID, is often 
+      associated with debilitating symptoms and adverse multisystem consequences. We 
+      obtain plasma samples from 117 individuals during and 6 months following their 
+      acute phase of infection to comprehensively profile and assess changes in 
+      cytokines, proteome, and metabolome. Network analysis reveals sustained 
+      inflammatory response, platelet degranulation, and cellular activation during 
+      convalescence accompanied by dysregulation in arginine biosynthesis, methionine 
+      metabolism, taurine metabolism, and tricarboxylic acid (TCA) cycle processes. 
+      Furthermore, we develop a prognostic model composed of 20 molecules involved in 
+      regulating T cell exhaustion and energy metabolism that can reliably predict 
+      adverse clinical outcomes following discharge from acute infection with 83% 
+      accuracy and an area under the curve (AUC) of 0.96. Our study reveals pertinent 
+      biological processes during convalescence that differ from acute infection, and 
+      it supports the development of specific therapies and biomarkers for patients 
+      suffering from long COVID.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Wang, Kaiming
+AU  - Wang K
+AD  - Division of Cardiology, Department of Medicine, University of Alberta, Edmonton, 
+      AB, Canada; Mazankowski Alberta Heart Institute, University of Alberta, Edmonton, 
+      AB, Canada; Cumming School of Medicine, University of Calgary, Calgary, AB, 
+      Canada.
+FAU - Khoramjoo, Mobin
+AU  - Khoramjoo M
+AD  - Mazankowski Alberta Heart Institute, University of Alberta, Edmonton, AB, Canada; 
+      Department of Physiology, University of Alberta, Edmonton, AB, Canada.
+FAU - Srinivasan, Karthik
+AU  - Srinivasan K
+AD  - Department of Chemical and Materials Engineering, University of Alberta, 
+      Edmonton, AB, Canada.
+FAU - Gordon, Paul M K
+AU  - Gordon PMK
+AD  - Cumming School of Medicine, University of Calgary, Calgary, AB, Canada.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, Canada.
+FAU - Jackson, Dana
+AU  - Jackson D
+AD  - Division of Cardiology, Department of Medicine, University of Alberta, Edmonton, 
+      AB, Canada; Mazankowski Alberta Heart Institute, University of Alberta, Edmonton, 
+      AB, Canada.
+FAU - Sligl, Wendy
+AU  - Sligl W
+AD  - Department of Critical Care Medicine, University of Alberta, Edmonton, AB, 
+      Canada; Division of Infectious Diseases, Department of Medicine, University of 
+      Alberta, Edmonton, AB, Canada.
+FAU - Grant, Maria B
+AU  - Grant MB
+AD  - Department of Ophthalmology and Visual Sciences, University of Alabama at 
+      Birmingham, Birmingham, AL, USA.
+FAU - Penninger, Josef M
+AU  - Penninger JM
+AD  - Department of Medical Genetics, Life Sciences Institute, University of British 
+      Columbia, Vancouver, BC, Canada; Institute of Molecular Biotechnology of the 
+      Austrian Academy of Sciences (IMBA), Vienna, Austria.
+FAU - Borchers, Christoph H
+AU  - Borchers CH
+AD  - Segal Cancer Proteomics Centre, Lady Davis Institute for Medical Research, Jewish 
+      General Hospital, McGill University, Montreal, QC, Canada; Gerald Bronfman 
+      Department of Oncology, McGill University, Montreal, QC, Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, Canada.
+FAU - Prasad, Vinay
+AU  - Prasad V
+AD  - Department of Chemical and Materials Engineering, University of Alberta, 
+      Edmonton, AB, Canada.
+FAU - Oudit, Gavin Y
+AU  - Oudit GY
+AD  - Division of Cardiology, Department of Medicine, University of Alberta, Edmonton, 
+      AB, Canada; Mazankowski Alberta Heart Institute, University of Alberta, Edmonton, 
+      AB, Canada; Department of Physiology, University of Alberta, Edmonton, AB, 
+      Canada. Electronic address: gavin.oudit@ualberta.ca.
+LA  - eng
+PT  - Journal Article
+DEP - 20231018
+PL  - United States
+TA  - Cell Rep Med
+JT  - Cell reports. Medicine
+JID - 101766894
+SB  - IM
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - biomarkers
+OT  - long COVID
+OT  - machine learning
+OT  - metabolomics
+OT  - outcomes
+OT  - phenotyping
+OT  - post-acute sequelae of COVID-19
+OT  - proteomics
+COIS- Declaration of interests The authors declare no competing interests.
+EDAT- 2023/10/28 11:42
+MHDA- 2023/10/28 11:42
+CRDT- 2023/10/27 18:42
+PHST- 2023/02/17 00:00 [received]
+PHST- 2023/05/25 00:00 [revised]
+PHST- 2023/09/29 00:00 [accepted]
+PHST- 2023/10/28 11:42 [medline]
+PHST- 2023/10/28 11:42 [pubmed]
+PHST- 2023/10/27 18:42 [entrez]
+AID - S2666-3791(23)00431-7 [pii]
+AID - 10.1016/j.xcrm.2023.101254 [doi]
+PST - aheadofprint
+SO  - Cell Rep Med. 2023 Oct 18:101254. doi: 10.1016/j.xcrm.2023.101254.
+
+PMID- 30719822
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200325
+LR  - 20200325
+IS  - 1399-3046 (Electronic)
+IS  - 1397-3142 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2019 May
+TI  - Non-invasive differentiation of non-rejection kidney injury from acute rejection 
+      in pediatric renal transplant recipients.
+PG  - e13364
+LID - 10.1111/petr.13364 [doi]
+AB  - Acute kidney injury (AKI) is a major concern in pediatric kidney transplant 
+      recipients, where non-alloimmune causes must be distinguished from rejection. We 
+      sought to identify a urinary metabolite signature associated with non-rejection 
+      kidney injury (NRKI) in pediatric kidney transplant recipients. Urine samples 
+      (n = 396) from 60 pediatric transplant participants were obtained at time of 
+      kidney biopsy and quantitatively assayed for 133 metabolites by mass 
+      spectrometry. Metabolite profiles were analyzed via projection on latent 
+      structures discriminant analysis. Mixed-effects regression identified laboratory 
+      and clinical predictors of NRKI and distinguished NRKI from T cell-mediated 
+      rejection (CMR), antibody-mediated rejection (AMR), and mixed CMR/AMR. Urine 
+      samples (n = 199) without rejection were split into NRKI (n = 26; ΔSCr ≥25%), 
+      pre-NRKI (n = 35; ΔSCr ≥10% and <25%), and no NRKI (n = 138; ΔSCr <10%) groups. 
+      The NRKI discriminant score (dscore) distinguished between NRKI and no NRKI 
+      (AUC = 0.86; 95% CI = 0.79-0.94), confirmed by leave-one-out cross-validation 
+      (AUC = 0.79; 95% CI = 0.68-0.89). The NRKI dscore also distinguished between NRKI 
+      and pre-NRKI (AUC = 0.82; 95% CI = 0.71-0.93). In a linear mixed-effects 
+      regression model to account for repeated measures, the NRKI dscore was 
+      independent of concurrent rejection, but there was a non-statistical trend for 
+      higher dscores with rejection severity. A second exploratory classifier developed 
+      to distinguish NRKI from clinical rejection had similar test characteristics 
+      (AUC = 0.81, 95% CI = 0.70-0.92, confirmed by LOOCV). This study demonstrates the 
+      potential of a urine metabolite classifier to detect NRKI in pediatric kidney 
+      transplant patients and non-invasively discriminate NRKI from rejection.
+CI  - © 2019 Wiley Periodicals, Inc.
+FAU - Archdekin, Ben
+AU  - Archdekin B
+AUID- ORCID: 0000-0001-5936-566X
+AD  - Faculty of Health Sciences, Queen's University, Kingston, Ontario, Canada.
+FAU - Sharma, Atul
+AU  - Sharma A
+AD  - Department of Pediatrics and Child Health, Children's Hospital at Health Sciences 
+      Center, University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Gibson, Ian W
+AU  - Gibson IW
+AD  - Department of Pathology, Health Sciences Center, University of Manitoba, 
+      Winnipeg, Manitoba, Canada.
+FAU - Rush, David
+AU  - Rush D
+AD  - Department of Medicine, Health Sciences Center, University of Manitoba, Winnipeg, 
+      Manitoba, Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, Alberta, 
+      Canada.
+FAU - Blydt-Hansen, Tom D
+AU  - Blydt-Hansen TD
+AUID- ORCID: 0000-0002-8864-0197
+AD  - Department of Pediatrics, BC Children's Hospital, University of British Columbia, 
+      Vancouver, British Columbia, Canada.
+LA  - eng
+GR  - 274755/CIHR/Canada
+PT  - Journal Article
+DEP - 20190204
+PL  - Denmark
+TA  - Pediatr Transplant
+JT  - Pediatric transplantation
+JID - 9802574
+SB  - IM
+MH  - Acute Kidney Injury/*diagnosis/*etiology
+MH  - Adolescent
+MH  - Allografts
+MH  - Biopsy
+MH  - Child
+MH  - Child, Preschool
+MH  - Cohort Studies
+MH  - Female
+MH  - Graft Rejection/*diagnosis/*immunology
+MH  - Humans
+MH  - Kidney/pathology
+MH  - Kidney Failure, Chronic/*surgery/*urine
+MH  - *Kidney Transplantation
+MH  - Male
+MH  - Mass Spectrometry
+MH  - Metabolomics
+MH  - Pediatrics
+MH  - Prospective Studies
+MH  - Regression Analysis
+MH  - Transplant Recipients
+OTO - NOTNLM
+OT  - acute kidney injury
+OT  - biomarker
+OT  - metabolomics
+OT  - nephrology
+OT  - rejection
+OT  - transplant
+EDAT- 2019/02/06 06:00
+MHDA- 2020/03/26 06:00
+CRDT- 2019/02/06 06:00
+PHST- 2018/09/04 00:00 [received]
+PHST- 2018/12/11 00:00 [revised]
+PHST- 2018/12/21 00:00 [accepted]
+PHST- 2019/02/06 06:00 [pubmed]
+PHST- 2020/03/26 06:00 [medline]
+PHST- 2019/02/06 06:00 [entrez]
+AID - 10.1111/petr.13364 [doi]
+PST - ppublish
+SO  - Pediatr Transplant. 2019 May;23(3):e13364. doi: 10.1111/petr.13364. Epub 2019 Feb 
+      4.
+
+PMID- 33034126
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210618
+LR  - 20230124
+IS  - 1600-6143 (Electronic)
+IS  - 1600-6135 (Linking)
+VI  - 21
+IP  - 4
+DP  - 2021 Apr
+TI  - Validity and utility of urinary CXCL10/Cr immune monitoring in pediatric kidney 
+      transplant recipients.
+PG  - 1545-1555
+LID - 10.1111/ajt.16336 [doi]
+AB  - Individualized posttransplant immunosuppression is hampered by suboptimal 
+      monitoring strategies. To validate the utility of urinary CXCL10/Cr immune 
+      monitoring in children, we conducted a multicenter prospective observational 
+      study in children <21 years with serial and biopsy-associated urine samples 
+      (n = 97). Biopsies (n = 240) were categorized as normal (NOR), rejection (>i1t1; 
+      REJ), indeterminate (IND), BKV infection, and leukocyturia (LEU). An independent 
+      pediatric cohort of 180 urines was used for external validation. Ninety-seven 
+      patients aged 11.4 ± 5.5 years showed elevated urinary CXCL10/Cr in REJ (3.1, IQR 
+      1.1, 16.4; P < .001) and BKV nephropathy (median = 5.6, IQR 1.3, 26.9; P < .001) 
+      vs. NOR (0.8, IQR 0.4, 1.5). The AUC for REJ vs. NOR was 0.76 (95% CI 0.66-0.86). 
+      Low (0.63) and high (4.08) CXCL10/Cr levels defined high sensitivity and 
+      specificity thresholds, respectively; validated against an independent sample set 
+      (AUC = 0.76, 95% CI 0.66-0.86). Serial urines anticipated REJ up to 4 weeks prior 
+      to biopsy and declined within 1 month following treatment. Elevated mean 
+      CXCL10/Cr was correlated with first-year eGFR decline (ρ = -0.37, P ≤ .001), 
+      particularly when persistently exceeding ≥4.08 (ratio = 0.81; P < .04). Useful 
+      thresholds for urinary CXCL10/Cr levels reproducibly define the risk of 
+      rejection, immune quiescence, and decline in allograft function for use in 
+      real-time clinical monitoring in children.
+CI  - © 2020 The American Society of Transplantation and the American Society of 
+      Transplant Surgeons.
+FAU - Blydt-Hansen, Tom D
+AU  - Blydt-Hansen TD
+AUID- ORCID: 0000-0002-8864-0197
+AD  - Pediatric Nephrology, The University of British Columbia, Vancouver, British 
+      Columbia, Canada.
+FAU - Sharma, Atul
+AU  - Sharma A
+AD  - Biostatistical Consulting Unit, George, Fay Yee Center for Healthcare Innovation, 
+      University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Gibson, Ian W
+AU  - Gibson IW
+AD  - Pathology, University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Wiebe, Chris
+AU  - Wiebe C
+AUID- ORCID: 0000-0002-1006-3545
+AD  - Nephrology, University of Manitoba, Winnipeg, Manitoba, Canada.
+AD  - Transplant/Immunology Lab, University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Sharma, Ajay P
+AU  - Sharma AP
+AD  - Pediatric Nephrology, University of Western Ontario, London, Ontario, Canada.
+FAU - Langlois, Valerie
+AU  - Langlois V
+AD  - Pediatric Nephrology, University of Toronto, Toronto, Ontario, Canada.
+FAU - Teoh, Chia W
+AU  - Teoh CW
+AD  - Pediatric Nephrology, University of Toronto, Toronto, Ontario, Canada.
+FAU - Rush, David
+AU  - Rush D
+AUID- ORCID: 0000-0002-3451-9447
+AD  - Nephrology, University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Nickerson, Peter
+AU  - Nickerson P
+AUID- ORCID: 0000-0002-7393-7799
+AD  - Nephrology, University of Manitoba, Winnipeg, Manitoba, Canada.
+AD  - Transplant/Immunology Lab, University of Manitoba, Winnipeg, Manitoba, Canada.
+FAU - Wishart, David
+AU  - Wishart D
+AD  - Computing Science, University of Alberta, Edmonton, Alberta, Canada.
+AD  - The Metabolomics Innovation Center, Edmonton, Alberta, Canada.
+FAU - Ho, Julie
+AU  - Ho J
+AD  - Nephrology, University of Manitoba, Winnipeg, Manitoba, Canada.
+AD  - Manitoba Centre for Proteomics & Systems Biology, Winnipeg, Manitoba, Canada.
+LA  - eng
+GR  - 274755/Canadian Institutes of Health Research (CIHR)/
+GR  - 340137/Canadian Institutes of Health Research (CIHR)/
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20201030
+PL  - United States
+TA  - Am J Transplant
+JT  - American journal of transplantation : official journal of the American Society of 
+      Transplantation and the American Society of Transplant Surgeons
+JID - 100968638
+RN  - 0 (Biomarkers)
+RN  - 0 (CXCL10 protein, human)
+RN  - 0 (Chemokine CXCL10)
+SB  - IM
+MH  - Biomarkers
+MH  - Chemokine CXCL10
+MH  - Child
+MH  - Graft Rejection/diagnosis/etiology
+MH  - Humans
+MH  - *Kidney Transplantation/adverse effects
+MH  - Monitoring, Immunologic
+OTO - NOTNLM
+OT  - biomarker
+OT  - biopsy
+OT  - chemokines/chemokine receptors
+OT  - clinical research/practice
+OT  - kidney (allograft) function/dysfunction
+OT  - kidney transplantation/nephrology
+OT  - pediatrics
+OT  - rejection: acute
+EDAT- 2020/10/10 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2020/10/09 05:42
+PHST- 2020/08/26 00:00 [revised]
+PHST- 2020/06/09 00:00 [received]
+PHST- 2020/09/20 00:00 [accepted]
+PHST- 2020/10/10 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/10/09 05:42 [entrez]
+AID - S1600-6135(22)08502-1 [pii]
+AID - 10.1111/ajt.16336 [doi]
+PST - ppublish
+SO  - Am J Transplant. 2021 Apr;21(4):1545-1555. doi: 10.1111/ajt.16336. Epub 2020 Oct 
+      30.
+
+PMID- 33368914
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220201
+LR  - 20220201
+IS  - 1399-3046 (Electronic)
+IS  - 1397-3142 (Linking)
+VI  - 25
+IP  - 5
+DP  - 2021 Aug
+TI  - Age and sex determine conversion from immediate-release to extended-release 
+      tacrolimus in a multi-center cohort of Canadian pediatric renal transplant 
+      recipients.
+PG  - e13959
+LID - 10.1111/petr.13959 [doi]
+AB  - ER-Tac, taken once per day, is associated with improved adherence. This study 
+      examined the potential patient and clinical factors that influence clinicians to 
+      convert pediatric patients from immediate-release to ER-Tac. This prospective 
+      multi-center observational study followed Canadian pediatric kidney transplant 
+      recipients up to 5 years post-transplant. Cox Proportional Hazards Regression was 
+      used to examine the influence of factors on conversion to ER-Tac. Sixty-six 
+      participants were included in this analysis. For every additional year of age at 
+      the time of transplant, the likelihood of conversion was more than doubled (HR 
+      2.54, CI 1.83, 3.54, P < 0.001). The impact of age reduced by three percent for 
+      every month after transplant (HR 0.97, CI 0.95, 0.98, P < 0.001). Girls were more 
+      likely to be converted than boys (HR 3.78, CI 1.35, 10.6, P 0.01). Adherence 
+      measures (MAM-MM and tacrolimus trough variability), individual barriers to 
+      adherence, renal function, HLA mismatch, and rejection were not significant 
+      predictors of conversion in the final regression model. ER-Tac was preferentially 
+      prescribed to older age and female patients. Female sex and adolescence are both 
+      associated with worse graft outcomes, but we found no link between individualized 
+      markers of adherence/graft risk and conversion. Clinicians appeared to be using 
+      demographic features to distinguish patients at perceived higher risk and 
+      converted accordingly, without a case-by-case evaluation of who is more 
+      susceptible to poor outcomes.
+CI  - © 2020 Wiley Periodicals LLC.
+FAU - Lang, Samantha
+AU  - Lang S
+AUID- ORCID: 0000-0001-8662-6386
+AD  - Department of Medicine, Faculty of Medicine, University of British Columbia, 
+      Vancouver, BC, Canada.
+FAU - Sharma, Atul
+AU  - Sharma A
+AD  - Biostatistical Consulting Unit, George and Fay Yee Center for Healthcare 
+      Innovation, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Foster, Beth
+AU  - Foster B
+AD  - Montreal Children's Hospital Research Institute, McGill University Health Centre, 
+      Montreal, QC, Canada.
+AD  - Department of Epidemiology, Biostatistics and Occupational Health, McGill 
+      University, Montreal, QC, Canada.
+FAU - Gibson, Ian W
+AU  - Gibson IW
+AD  - Pathology, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Ho, Julie
+AU  - Ho J
+AD  - Department of Internal Medicine, Section of Nephrology, Rady Faculty of Health 
+      Sciences, University of Manitoba, Winnipeg, MB, Canada.
+AD  - Manitoba Centre for Proteomics & Systems Biology, Winnipeg, MB, Canada.
+FAU - Nickerson, Peter
+AU  - Nickerson P
+AD  - Department of Internal Medicine, Section of Nephrology, Rady Faculty of Health 
+      Sciences, University of Manitoba, Winnipeg, MB, Canada.
+AD  - Transplant/Immunology Lab, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Wishart, David
+AU  - Wishart D
+AD  - Computing Science, University of Alberta, Edmonton, AB, Canada.
+AD  - The Metabolomics Innovation Center, Edmonton, AB, Canada.
+FAU - Blydt-Hansen, Tom
+AU  - Blydt-Hansen T
+AUID- ORCID: 0000-0002-8864-0197
+AD  - Pediatric Nephrology, The University of British Columbia, Vancouver, BC, Canada.
+LA  - eng
+GR  - 274755/CAPMC/CIHR/Canada
+GR  - 340137/Astellas Pharma Canada, Inc/
+GR  - 274755/CAPMC/CIHR/Canada
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Observational Study
+DEP - 20201223
+PL  - Denmark
+TA  - Pediatr Transplant
+JT  - Pediatric transplantation
+JID - 9802574
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Immunosuppressive Agents)
+RN  - WM0HAQ4WNM (Tacrolimus)
+SB  - IM
+MH  - Adolescent
+MH  - Adolescent Behavior/psychology
+MH  - Age Factors
+MH  - Canada
+MH  - Child
+MH  - Clinical Decision-Making/*methods
+MH  - Delayed-Action Preparations
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Graft Rejection/*prevention & control
+MH  - Humans
+MH  - Immunosuppressive Agents/*administration & dosage/therapeutic use
+MH  - *Kidney Transplantation
+MH  - Male
+MH  - Medication Adherence/psychology/*statistics & numerical data
+MH  - Practice Patterns, Physicians'/*statistics & numerical data
+MH  - Proportional Hazards Models
+MH  - Prospective Studies
+MH  - Risk Assessment
+MH  - Sex Factors
+MH  - Tacrolimus/*administration & dosage/therapeutic use
+OTO - NOTNLM
+OT  - age
+OT  - extended-release tacrolimus
+OT  - gender
+OT  - immunosuppression
+OT  - kidney
+OT  - medication adherence
+OT  - pediatric
+OT  - sex
+OT  - transplant
+EDAT- 2020/12/29 06:00
+MHDA- 2022/02/02 06:00
+CRDT- 2020/12/28 12:37
+PHST- 2020/11/11 00:00 [revised]
+PHST- 2020/09/25 00:00 [received]
+PHST- 2020/12/08 00:00 [accepted]
+PHST- 2020/12/29 06:00 [pubmed]
+PHST- 2022/02/02 06:00 [medline]
+PHST- 2020/12/28 12:37 [entrez]
+AID - 10.1111/petr.13959 [doi]
+PST - ppublish
+SO  - Pediatr Transplant. 2021 Aug;25(5):e13959. doi: 10.1111/petr.13959. Epub 2020 Dec 
+      23.
+
+PMID- 35079137
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220129
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2022 Jan 25
+TI  - Author Correction: Targeted metabolomics identifies high performing diagnostic 
+      and prognostic biomarkers for COVID-19.
+PG  - 1673
+LID - 10.1038/s41598-022-05978-2 [doi]
+LID - 1673
+FAU - López-Hernández, Yamilé
+AU  - López-Hernández Y
+AD  - Cátedras-CONACyT, Consejo Nacional de Ciencia y Tecnologia, 03940, Mexico, 
+      Mexico. ylopezher@conacyt.mx.
+AD  - Autonomous University of Zacatecas, 98000, Zacatecas, Mexico. 
+      ylopezher@conacyt.mx.
+FAU - Monárrez-Espino, Joel
+AU  - Monárrez-Espino J
+AD  - Christus Muguerza Hospital Chihuahua-University of Monterrey, 31000, Chihuahua, 
+      Mexico. jmonarrez@hotmail.com.
+FAU - Oostdam, Ana-Sofía Herrera-van
+AU  - Oostdam AH
+AD  - Faculty of Medicine, Autonomous University of San Luis Potosí, 78210, San Luis 
+      Potosi, Mexico.
+FAU - Delgado, Julio Enrique Castañeda
+AU  - Delgado JEC
+AD  - Cátedras-CONACyT, Consejo Nacional de Ciencia y Tecnologia, 03940, Mexico, 
+      Mexico.
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, Mexico.
+FAU - Zhang, Lun
+AU  - Zhang L
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+FAU - Zheng, Jiamin
+AU  - Zheng J
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+FAU - Valdez, Juan José Oropeza
+AU  - Valdez JJO
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, Mexico.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+FAU - González, Fátima de Lourdes Ochoa
+AU  - González FLO
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, Mexico.
+AD  - Doctorado en Ciencias Básicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      México.
+FAU - Moreno, Juan Carlos Borrego
+AU  - Moreno JCB
+AD  - Departmento de Epidemiología, Hospital General de Zona #1 "Emilio Varela Luján", 
+      Instituto Mexicano del Seguro Social, 98000, Zacatecas, Mexico.
+FAU - Trejo-Medinilla, Flor M
+AU  - Trejo-Medinilla FM
+AD  - Autonomous University of Zacatecas, 98000, Zacatecas, Mexico.
+AD  - Doctorado en Ciencias Básicas, Universidad Autónoma de Zacatecas, Zacatecas, 
+      México.
+FAU - López, Jesús Adrián
+AU  - López JA
+AD  - MicroRNAs Laboratory, Academic Unit for Biological Sciences, Autonomous 
+      University of Zacatecas, 98000, Zacatecas, Mexico.
+FAU - Moreno, José Antonio Enciso
+AU  - Moreno JAE
+AD  - Unidad de Investigación Biomédica de Zacatecas, Instituto Mexicano del Seguro 
+      Social, 98000, Zacatecas, Mexico.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, T6G1C9, 
+      Canada.
+LA  - eng
+PT  - Published Erratum
+DEP - 20220125
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+EFR - Sci Rep. 2021 Jul 19;11(1):14732. PMID: 34282210
+PMC - PMC8788903
+EDAT- 2022/01/27 06:00
+MHDA- 2022/01/27 06:01
+CRDT- 2022/01/26 05:29
+PHST- 2022/01/26 05:29 [entrez]
+PHST- 2022/01/27 06:00 [pubmed]
+PHST- 2022/01/27 06:01 [medline]
+AID - 10.1038/s41598-022-05978-2 [pii]
+AID - 5978 [pii]
+AID - 10.1038/s41598-022-05978-2 [doi]
+PST - epublish
+SO  - Sci Rep. 2022 Jan 25;12(1):1673. doi: 10.1038/s41598-022-05978-2.
+
+PMID- 29696778
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181107
+LR  - 20181107
+IS  - 1399-3046 (Electronic)
+IS  - 1397-3142 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2018 Aug
+TI  - Evolution of renal function and urinary biomarker indicators of inflammation on 
+      serial kidney biopsies in pediatric kidney transplant recipients with and without 
+      rejection.
+PG  - e13202
+LID - 10.1111/petr.13202 [doi]
+AB  - Urinary CXCL10 and metabolites are biomarkers independently associated with TCMR. 
+      We sought to test whether these biomarkers fluctuate in association with 
+      histological severity of TCMR over short time frames. Forty-nine pairs of renal 
+      biopsies obtained 1-3 months apart from 40 pediatric renal transplant recipients 
+      were each scored for TCMR acuity score (i + t; Banff criteria). Urinary CXCL10:Cr 
+      and TCMR MDS were obtained at each biopsy and were tested for association with 
+      changes between biopsies in acuity, estimated GFR (ΔeGFR), and 12-month ΔeGFR. 
+      Sequential biopsies were obtained 1.8 ± 0.8 months apart. Biopsy 1 was usually 
+      obtained under protocol (75%), and 62% percent had evidence of TCMR. Using each 
+      biopsy pair for comparison, ΔeGFR did not predict change in acuity. By contrast, 
+      change in acuity was significantly correlated with change in urinary CXCL10:Cr (ρ 
+      0.45, P = .003) and MDS (ρ 0.29, P = .04) between biopsies. The 12-month ΔeGFR 
+      was not predicted by TCMR acuity or CXCL10:Cr at Biopsy 2; however, an inverse 
+      correlation was seen with urinary MDS (ρ -0.35; P = .02). Changes in eGFR 
+      correlate poorly with evolving TCMR acuity on histology. Urinary biomarkers may 
+      be superior for non-invasive monitoring of rejection, including histological 
+      response to therapy, and may be prognostic for medium-term function.
+CI  - © 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+FAU - Mincham, Christine M
+AU  - Mincham CM
+AD  - Department of Pediatrics, University of British Columbia, BC Children's Hospital, 
+      Vancouver, BC, Canada.
+FAU - Gibson, Ian W
+AU  - Gibson IW
+AD  - Department of Pathology, University of Manitoba, Health Sciences Center, 
+      Winnipeg, MB, Canada.
+FAU - Sharma, Atul
+AU  - Sharma A
+AD  - Department of Pediatrics and Child Health, University of Manitoba, Children's 
+      Hospital at Health Sciences Center, Winnipeg, MB, Canada.
+FAU - Wiebe, Chris
+AU  - Wiebe C
+AD  - Department of Internal Medicine, Section of Nephrology, University of Manitoba, 
+      Health Sciences Center, Winnipeg, MB, Canada.
+FAU - Mandal, Rupasri
+AU  - Mandal R
+AD  - Department of Immunology, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Rush, David
+AU  - Rush D
+AD  - Department of Internal Medicine, Section of Nephrology, University of Manitoba, 
+      Health Sciences Center, Winnipeg, MB, Canada.
+FAU - Nickerson, Peter
+AU  - Nickerson P
+AD  - Department of Internal Medicine, Section of Nephrology, University of Manitoba, 
+      Health Sciences Center, Winnipeg, MB, Canada.
+FAU - Ho, Julie
+AU  - Ho J
+AD  - Department of Internal Medicine, Section of Nephrology, University of Manitoba, 
+      Health Sciences Center, Winnipeg, MB, Canada.
+AD  - Department of Immunology, University of Manitoba, Winnipeg, MB, Canada.
+FAU - Wishart, David S
+AU  - Wishart DS
+AD  - The Metabolomics Innovation Center, University of Alberta, Edmonton, AB, Canada.
+FAU - Blydt-Hansen, Tom D
+AU  - Blydt-Hansen TD
+AUID- ORCID: 0000-0002-8864-0197
+AD  - Department of Pediatrics, University of British Columbia, BC Children's Hospital, 
+      Vancouver, BC, Canada.
+LA  - eng
+GR  - 274755/Canadian Institutes of Health Research/International
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180425
+PL  - Denmark
+TA  - Pediatr Transplant
+JT  - Pediatric transplantation
+JID - 9802574
+RN  - 0 (Biomarkers)
+RN  - 0 (CXCL10 protein, human)
+RN  - 0 (Chemokine CXCL10)
+RN  - AYI8EX34EU (Creatinine)
+SB  - IM
+MH  - Adolescent
+MH  - Biomarkers/urine
+MH  - Biopsy
+MH  - Case-Control Studies
+MH  - Chemokine CXCL10/*urine
+MH  - Child
+MH  - Child, Preschool
+MH  - Creatinine/urine
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Glomerular Filtration Rate
+MH  - Graft Rejection/*diagnosis/pathology/physiopathology/urine
+MH  - Humans
+MH  - Infant
+MH  - Infant, Newborn
+MH  - Kidney/metabolism/*pathology/*physiopathology
+MH  - *Kidney Transplantation
+MH  - Male
+MH  - Prospective Studies
+OTO - NOTNLM
+OT  - acute rejection
+OT  - biomarkers
+OT  - chemokines
+OT  - graft survival
+OT  - histopathology
+OT  - metabolomics
+OT  - pediatric
+EDAT- 2018/04/27 06:00
+MHDA- 2018/11/08 06:00
+CRDT- 2018/04/27 06:00
+PHST- 2018/03/26 00:00 [accepted]
+PHST- 2018/04/27 06:00 [pubmed]
+PHST- 2018/11/08 06:00 [medline]
+PHST- 2018/04/27 06:00 [entrez]
+AID - 10.1111/petr.13202 [doi]
+PST - ppublish
+SO  - Pediatr Transplant. 2018 Aug;22(5):e13202. doi: 10.1111/petr.13202. Epub 2018 Apr 
+      25.
