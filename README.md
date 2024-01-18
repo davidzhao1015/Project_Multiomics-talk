@@ -1,0 +1,1 @@
+This repository includes files for the impact analysis of TMIC's bioinformatics tools in the multi-omics community. Archived within the repository are input data and source codes used for text analysis.
